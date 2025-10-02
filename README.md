@@ -45,5 +45,5 @@ This project addresses real-world data challenges in manufacturing (document aut
 ## Contact
 - GitHub: [batescole](https://github.com/batescole)
 - LinkedIn: [cole-bates](https://www.linkedin.com/in/cole-bates/)
-- Email: [bates.cole@gmail.com]
+- Email: bates.cole@gmail.com
 
