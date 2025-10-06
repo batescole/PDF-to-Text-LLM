@@ -3,7 +3,7 @@
 # PDF to Text Converter with Machine Learining (pymupdf4llm)
 
 ## Overview
-This project implements a Python-based tool for extracting text from PDF files using `pymupdf4llm` in a Jupyter Notebook. Designed to process unstructured data (e.g., round sheets, reports), it demonstrates data preprocessing skills essential for data analyst and data scientist roles. Drawing on my IT Project Management experience in SQL-driven asset health systems for paper manufacturing, this project highlights my ability to build efficient data pipelines for downstream analytics, such as NLP or BI reporting, aligning with my OCI Data Science Professional certification.
+This project implements a Python-based tool for extracting text from PDF files using `pymupdf4llm` in a Jupyter Notebook. Designed to process unstructured data (e.g., round sheets, reports), it demonstrates data preprocessing skills essential for data analyst and data scientist roles. Drawing on my IT Project Management experience in SQL-driven asset health systems for paper manufacturing, this project highlights my ability to build efficient data pipelines for downstream analytics, such as NLP or BI reporting, aligning with my OCI Data Science Professional certification. Example is data science certfication exmaple questions from various sources online.
 
 ## Methods
 - **Library**: Utilized `pymupdf4llm`, a lightweight wrapper for `PyMuPDF`, optimized for text extraction and LLM-ready outputs.
